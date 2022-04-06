@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Beautiful Dashboard",
+    "version": "1.0.0",
+    "description": "A dashboard",
+    "action": {
+        "default_icon": "cat.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
